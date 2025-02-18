@@ -33,6 +33,7 @@ Model Deployment: The trained model and tokenizer are stored as a ZIP file and e
 1 Clone the repository
 
 git clone https://github.com/your-repo-name.git
+
 cd your-repo-name
 
 2️ Install dependencies
