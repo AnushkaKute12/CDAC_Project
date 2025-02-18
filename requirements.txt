@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+imbalanced-learn
+streamlit
+nltk
+pickle-mixin
+google-colab
+shutil
+zipfile36
