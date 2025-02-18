@@ -2,7 +2,8 @@
 
 # Big Data Project link : https://github.com/AnushkaKute12/Big_Data_Project.git
 
-Mental Health Sentiment Analysis
+## Mental Health Sentiment Analysis
+
 This project is an AI-driven mental health detection system that uses BERT (Bidirectional Encoder Representations from Transformers) to classify text into different mental health categories such as anxiety, depression, bipolar disorder, or normal state. The model is fine-tuned using Hugging Face's Transformers library and deployed using Streamlit for a simple and interactive web interface.
 
 🚀 Project Overview
