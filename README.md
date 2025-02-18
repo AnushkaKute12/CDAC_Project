@@ -6,10 +6,15 @@ Mental Health Sentiment Analysis
 This project is an AI-driven mental health detection system that uses BERT (Bidirectional Encoder Representations from Transformers) to classify text into different mental health categories such as anxiety, depression, bipolar disorder, or normal state. The model is fine-tuned using Hugging Face's Transformers library and deployed using Streamlit for a simple and interactive web interface.
 
 🚀 Project Overview
+
 Preprocessing: Text is cleaned by removing special characters, numbers, and stopwords.
+
 Model Training: BERT-based model fine-tuned on a labeled dataset for mental health classification.
+
 Inference Pipeline: Tokenized text is passed through the model to predict the mental health category.
+
 Web UI: Built using Streamlit for easy user interaction.
+
 Model Deployment: The trained model and tokenizer are stored as a ZIP file and extracted dynamically during execution.
 
 🛠 Features
@@ -50,6 +55,9 @@ Used Hugging Face's Trainer API with optimized hyperparameters.
 See requirements.txt for dependencies.
 
 📌 Future Enhancements
+
 🔹 Add more advanced NLP techniques (e.g., attention-based analysis).
+
 🔹 Integrate with a database for real-time feedback and learning.
+
 🔹 Deploy as a cloud-based API for broader accessibility.
