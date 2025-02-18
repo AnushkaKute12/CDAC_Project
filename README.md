@@ -80,5 +80,3 @@ Tableau dashboards provide insights into data distribution, model performance.
 
 🔹 Integrate with a database for real-time feedback and learning.
 
-🔹 Deploy as a cloud-based API for broader accessibility.
-
