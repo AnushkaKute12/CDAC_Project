@@ -6,7 +6,7 @@
 
 This project is an AI-driven mental health detection system that uses BERT (Bidirectional Encoder Representations from Transformers) to classify text into different mental health categories such as anxiety, depression, bipolar disorder, or normal state. The model is fine-tuned using Hugging Face's Transformers library and deployed using Streamlit for a simple and interactive web interface.
 
-🚀 Project Overview
+### 🚀 Project Overview
 
 Preprocessing: Text is cleaned by removing special characters, numbers, and stopwords.
 
@@ -18,7 +18,7 @@ Web UI: Built using Streamlit for easy user interaction.
 
 Model Deployment: The trained model and tokenizer are stored as a ZIP file and extracted dynamically during execution.
 
-🛠 Features
+### 🛠 Features
 
 ✔ Fine-tuned BERT-based classification model.
 
@@ -28,7 +28,7 @@ Model Deployment: The trained model and tokenizer are stored as a ZIP file and e
 
 ✔ On-the-fly model extraction to save storage space.
 
-🖥 How to Run Locally
+### 🖥 How to Run Locally
 
 1 Clone the repository
 
@@ -43,19 +43,19 @@ pip install -r requirements.txt
 
 streamlit run Mental_Health_Analysis.py
 
-📂 Dataset
+### 📂 Dataset
 
 The dataset contains mental health-related text labeled with categories like normal, anxiety, depression, bipolar, suicide, etc..
 
 The labels are encoded using LabelEncoder.
 
-📜 Model Training
+### 📜 Model Training
 
 Fine-tuned bert-base-uncased for multi-class classification.
 
 Used Hugging Face's Trainer API with optimized hyperparameters.
 
-📊 Evaluation Metrics
+### 📊 Evaluation Metrics
 
 ✔ Confusion Matrix for misclassification analysis.
 
@@ -63,11 +63,11 @@ Used Hugging Face's Trainer API with optimized hyperparameters.
 
 ✔ Accuracy, Precision, Recall, and F1-score calculation.
 
-📦 Requirements
+### 📦 Requirements
 
 See requirements.txt for dependencies.
 
-📌 Future Enhancements
+### 📌 Future Enhancements
 
 🔹 Add more advanced NLP techniques (e.g., attention-based analysis).
 
