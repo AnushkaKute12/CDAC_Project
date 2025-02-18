@@ -72,7 +72,7 @@ See requirements.txt for dependencies.
 
 Tableau dashboards provide insights into data distribution, model performance.
 
-[![View Here](https://img.shields.io/badge/View-Tableau-blue?style=for-the-badge)](YOUR_TABLEAU_PUBLIC_LINK)
+[![View Here]](YOUR_TABLEAU_PUBLIC_LINK)
 
 ### 📌 Future Enhancements
 
