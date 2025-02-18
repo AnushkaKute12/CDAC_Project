@@ -72,7 +72,7 @@ See requirements.txt for dependencies.
 
 Tableau dashboards provide insights into data distribution, model performance.
 
-[[View Here]](YOUR_TABLEAU_PUBLIC_LINK)
+[[View Here]](https://public.tableau.com/app/profile/anushka.kute/viz/ML_Project_Charts1/FinalDashboard)
 
 ### 📌 Future Enhancements
 
