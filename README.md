@@ -68,6 +68,12 @@ Used Hugging Face's Trainer API with optimized hyperparameters.
 
 See requirements.txt for dependencies.
 
+### 📊 Tableau Visualizations
+
+Tableau dashboards provide insights into data distribution, model performance.
+
+View here : 
+
 ### 📌 Future Enhancements
 
 🔹 Add more advanced NLP techniques (e.g., attention-based analysis).
@@ -75,3 +81,4 @@ See requirements.txt for dependencies.
 🔹 Integrate with a database for real-time feedback and learning.
 
 🔹 Deploy as a cloud-based API for broader accessibility.
+
