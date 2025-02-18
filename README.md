@@ -19,6 +19,7 @@ Model Deployment: The trained model and tokenizer are stored as a ZIP file and e
 ✔ On-the-fly model extraction to save storage space.
 
 🖥 How to Run Locally
+
 1 Clone the repository
 
 git clone https://github.com/your-repo-name.git
