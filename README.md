@@ -36,11 +36,11 @@ git clone https://github.com/your-repo-name.git
 
 cd your-repo-name
 
-2️ Install dependencies
+2 Install dependencies
 
 pip install -r requirements.txt
 
-3️ Run the Streamlit app
+3 Run the Streamlit app
 
 streamlit run Mental_Health_Analysis.py
 
